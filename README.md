@@ -1,7 +1,5 @@
 # 🛡️ AI-Powered Phishing Email Detector
 <img width="1766" height="886" alt="image" src="https://github.com/user-attachments/assets/356302af-5d9a-4ef6-bf65-ed59ec1b5949" />
-<img width="1766" height="886" alt="image" src="https://github.com/user-attachments/assets/356302af-5d9a-4ef6-bf65-ed59ec1b5949" />
-<img width="1766" height="886" alt="image" src="https://github.com/user-attachments/assets/356302af-5d9a-4ef6-bf65-ed59ec1b5949" />
 
 An end-to-end machine learning system that detects phishing emails using natural language processing and classification algorithms.
 
