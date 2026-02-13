@@ -117,7 +117,7 @@ Place your dataset at: `data/raw/emails.csv`
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/ai-phishing-email-detector.git
+   git clone https://github.com/ShadiBahaa/ai-phishing-email-detector.git
    cd ai-phishing-email-detector
    ```
 
